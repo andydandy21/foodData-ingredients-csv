@@ -1,5 +1,5 @@
 ingredient_list.csv
-rawData
+/rawData
 !rawData/food.csv
 !rawData/food_nutrient.csv
 !rawData/nutrient.csv
