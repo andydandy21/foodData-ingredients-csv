@@ -84,4 +84,4 @@ merged_food["SK"] = merged_food["SK"].apply(lambda value: "FOOD#{}".format(value
 food_dict = merged_food.to_csv('ingredient_list.csv')
 
 # uncomment to export as json
-food_dict = merged_food.to_json('ingredient_list.json')
+# food_dict = merged_food.to_json('ingredient_list.json')
