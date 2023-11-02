@@ -1,5 +1,7 @@
 ingredient_list.csv
+ingredient_list.json
 /rawData
 !rawData/food.csv
 !rawData/food_nutrient.csv
 !rawData/nutrient.csv
+!rawData/food_portion.csv
